@@ -1,0 +1,6 @@
+Jose Diniz. 2018 March. Cars2, Version 1.76. Retrieved Retrieved 3 April 2022 from https://www.kaggle.com/datasets/dinizjr/cars2csv. 
+
+
+***Using kaggle citation based on sample found @ https://www.kaggle.com/general/46091 
+
+[Dataset creator's name]. ([Year &amp; Month of dataset creation]). [Name of the dataset], [Version of the dataset]. Retrieved [Date Retrieved] from [URL of the dataset].
